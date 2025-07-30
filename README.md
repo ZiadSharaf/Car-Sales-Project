@@ -107,6 +107,7 @@ The analysis included:
 1. Open the Excel file: `Car_Sales_Project.xlsm`  
 2. Use slicers to filter data by manufacturer, vehicle type, and performance metrics  
 3. Explore:
+   - **Main Dashboard**: Overall insights and key business metrics 
    - **Performance 1 Dashboard**: Fuel and engine metrics
    - **Performance 2 Dashboard**: Price vs performance analysis
 
