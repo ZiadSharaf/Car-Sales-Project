@@ -113,6 +113,19 @@ The analysis included:
 
 ---
 
+## 🖼️ Screenshots  
+
+### 📊 Main Dashboard  
+![Main Dashboard](Screenshots/Main_Dashboard.png)
+
+### ⚙️ Performance 1 Dashboard  
+![Performance 1 Dashboard](Screenshots/Performance_1_Dashboard.png)
+
+### 📈 Performance 2 Dashboard  
+![Performance 2 Dashboard](Screenshots/Performance_2_Dashboard.png)
+
+---
+
 ## 📂 Data Source  
 Dataset available at:  
 🔗 [Kaggle - Car Sales Dataset](https://www.kaggle.com/datasets/gagandeep16/car-sales)
