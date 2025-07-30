@@ -98,8 +98,7 @@ The analysis included:
 ## 📌 Conclusion and Recommendations  
 - Light vehicles are more profitable overall — focus on their production and marketing
 - Invest in high-performing models with strong resale value
-- Manufacturers like Lincoln and Saturn demonstrate strong technical metrics
-- Dashboards can be used for future forecasting and decision-making
+- Manufacturers like Lincoln,Saturn and Porsche demonstrate strong technical metrics
 
 ---
 
