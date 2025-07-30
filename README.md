@@ -6,10 +6,6 @@ This project analyzes a comprehensive dataset of car sales, covering 30 manufact
 ---
 
 ## 🎯 Objective  
-- Predict missing values in the dataset (e.g., price, horsepower, engine size).
-- Fix incorrect data types (especially dates).
-- Perform detailed data analysis using Excel's Power Query, Power Pivot, and DAX.
-- Visualize performance and financial trends using dashboards.
 - Provide data-driven insights to support business strategy.
 
 ---
