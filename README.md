@@ -33,7 +33,7 @@ Each row in the dataset represents a car model with the following features:
 | `Curb_weight` | Vehicle weight without passengers or cargo (lbs) |
 | `Fuel_capacity` | Maximum fuel tank capacity (in gallons) |
 | `Fuel_efficiency` | Fuel mileage (miles per gallon) |
-| `Latest_Launch` | Launch date of the latest version |
+| `Latest_Launch_Date` | Launch date of the latest version |
 | `Power_perf_factor` | A calculated performance metric combining power and weight |
 
 ---
