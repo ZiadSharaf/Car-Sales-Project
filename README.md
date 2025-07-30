@@ -64,6 +64,7 @@ The analysis included:
 - Top 5 manufacturers by profit: **Ford, Dodge, Toyota, Honda, Chevrolet** — making up **53.14%** of total profit
 - Top 5 models by profit: **F-Series, Explorer, Expedition, Ram Pickup, Taurus** — contributing **20.21%**
 
+  🔍 *For more insights and detailed statistics, please check the **Main Dashboard**.*
 ---
 
 ## 🧹 Data Cleaning  
