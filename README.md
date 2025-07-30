@@ -116,13 +116,13 @@ The analysis included:
 ## 🖼️ Screenshots  
 
 ### 📊 Main Dashboard  
-![Main Dashboard](Car-Sales-Project/Screenshots/Main_Dashboard.png)
+![Main Dashboard](Screenshots/MainDashboard.png)
 
 ### ⚙️ Performance 1 Dashboard  
-![Performance 1 Dashboard](Car-Sales-Project/Screenshots/Performance_1_Dashboard.png)
+![Performance 1 Dashboard](Screenshots/Performance1Dashboard.png)
 
 ### 📈 Performance 2 Dashboard  
-![Performance 2 Dashboard](Car-Sales-Project/Screenshots/Performance_2_Dashboard.png)
+![Performance 2 Dashboard](Screenshots/Performance2Dashboard.png)
 
 ---
 
